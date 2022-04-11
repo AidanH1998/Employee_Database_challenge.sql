@@ -3,9 +3,11 @@
 ## Overview ##
 
 The Purpose of the task is for us to see who is eligable for retirement. How do we know who is eligable? First we look at the ages of the employees, so the employees have to be a certain age to qualify for the retirement, so we put a date range to see who is with in that range. The next requirement is to see if the employee has been working with the company long enough. 
+
 ![retirement info3](https://user-images.githubusercontent.com/100543143/162658318-63030132-b108-41f9-9f95-e861a2e7d949.png)
 
 The second thing we need to find out is if the employee can be a mentor and that is only required for how old the employee is.
+
 ![mentorship](https://user-images.githubusercontent.com/100543143/162658425-fd6cbf60-20de-4977-b594-54c2b7a538af.png)
 
 
